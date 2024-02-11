@@ -75,9 +75,9 @@
                 <div class="flex items-center justify-between">
                     <div class="logo flex items-center xl:order-none lg:order-none"><a href="index.html" class="block"><img src="assets/images/logo/logo_02.png" alt="" width="95"></a></div>
                     <div class="right-widget !ml-auto flex items-center xl:order-3 lg:order-3">
-                        <a href="#" class="call-btn-one flex items-center mr-[1rem] text-white hover:underline">
+                        <a href="tel:+60102486014" class="call-btn-one flex items-center mr-[1rem] text-white hover:underline">
                             <img src="assets/images/icon/icon_43.svg" alt="" class="mr-[.5rem]">
-                            <span>(479) 421-6814</span>
+                            <span>(+60)102486014</span>
                         </a>
                         <a href="contact-us.html" class="donate-btn font-medium tran3s relative hidden  xl:block lg:block text-[17px] leading-[55px] text-black px-10 py-0 rounded-[5px] bg-[var(--prime-four)] hover:bg-white lg:text-[15px] lg:leading-[50px] lg:p-[0_30px] md:text-[15px] md:leading-[50px] md:p-[0_30px] sm:text-[15px] sm:leading-[50px] sm:p-[0_30px] xsm:text-[15px] xsm:leading-[50px] xsm:p-[0_30px]">Donate Now</a>
                     </div> <!-- /.right-widget -->

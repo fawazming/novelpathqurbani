@@ -3,11 +3,11 @@
 				Theme Hero Banner 
 			============================================== 
 			-->
-        <div class="hero-banner-five text-center relative bg-cover z-[1] px-0 py-[300px] bg bg-no-repeat bg-[center_bottom] md:p-[200px_0] sm:p-[200px_0] xsm:p-[200px_0]" style="height: 90vh;">
+        <div class="hero-banner-five text-center relative bg-cover z-[1] px-0 py-[300px] bg bg-no-repeat bg-[center_bottom] md:p-[200px_0] sm:p-[200px_0] xsm:p-[200px_0]" style="height: 100vh;">
             <div class="container">
                 <div class="flex flex-wrap mx-[-12px]">
                     <div class="xl:w-10/12 w-full flex-[0_0_auto] px-[12px] max-w-full m-auto wow fadeInUp" data-wow-delay="0.2s">
-                        <h1 class="hero-heading text-gray-400 mb-[50px] md:mb-[30px] sm:mb-[30px] xsm:mb-[30px] text-[170px] leading-[0.73em] tracking-[-2px] font-Eustache lg:text-[130px] md:text-[90px] md:leading-[0.9em] sm:text-[90px] sm:leading-[0.9em] xsm:text-[90px] xsm:leading-[0.9em]">Qurbani <span class="relative">2024 <img class=" absolute -translate-x-2/4 -translate-y-2/4 z-[-1] max-w-[initial] left-2/4 top-2/4 md:max-w-[150%] sm:max-w-[150%] xsm:max-w-[150%]" src="images/shape/shape_71.svg" alt=""></span> <br> Donate online today</h1>
+                        <h1 class="text-2xl text-gray-400 mb-[50px] md:mb-[30px] sm:mb-[30px] xsm:mb-[30px] text-[170px] leading-[0.73em] tracking-[-2px] font-Eustache lg:text-[130px] md:text-[90px] md:leading-[0.9em] sm:text-[90px] sm:leading-[0.9em] xsm:text-[90px] xsm:leading-[0.9em]">Help us feed<span class="relative"><img class=" absolute -translate-x-2/4 -translate-y-2/4 z-[-1] max-w-[initial] left-2/4 top-2/4 md:max-w-[150%] sm:max-w-[150%] xsm:max-w-[150%]" src="assets/images/shape/shape_71.svg" alt=""></span> <br> 1000 household in Nigeria </h1>
                     </div>
                 </div>
                 <a href="contact-us.html" class="donate-btn font-medium tran3s wow fadeInUp text-[17px] leading-[60px] text-black p-[0_48px] rounded-[30px] bg-[var(--prime-four)] hover:bg-white lg:text-[15px] lg:leading-[50px] lg:p-[0_40px] md:text-[15px] md:leading-[50px] md:p-[0_40px] sm:text-[15px] sm:leading-[50px] sm:p-[0_40px] xsm:text-[15px] xsm:leading-[50px] xsm:p-[0_40px]" data-wow-delay="0.4s">Donate now</a>
@@ -181,7 +181,15 @@
                 </div>
             </div>
         </div>
-        <div class="mx-[-12px] xxl:mx-[-24px]">
+        <style>
+            @media (min-width: 808px){
+              .slides {
+                margin-left: 300px;
+                margin-right: 180px;
+              }
+            }
+        </style>    
+        <div class="slides relative flex flex-wrap">
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -232,6 +240,9 @@
                 <span class="visually-hidden">Next</span>
               </button>
             </div>
+            <div class="title-style-one mb-[30px]" style="margin-left: 100px; margin-top: 150px;">
+                    <p class="main-title font-medium text-black !m-0">Let our pictures speak for us</p>
+                </div>
         </div>
 
         <!--
