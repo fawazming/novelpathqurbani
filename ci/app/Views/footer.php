@@ -40,6 +40,9 @@
         <script src="assets/vendor/jquery.min.js"></script>
         <!-- Bootstrap JS -->
         <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <!-- <script>
+            $('.carousel').carousel()
+        </script> -->
         <!-- WOW js -->
         <script src="assets/vendor/wow/wow.min.js"></script>
         <!-- Slick Slider -->
@@ -58,6 +61,7 @@
         <!-- validator js -->
         <script src="assets/vendor/validator.js"></script>
         <!-- Theme js -->
+
         <script src="assets/js/theme.js"></script>
     </div> <!-- /.main-page-wrapper -->
 </body>

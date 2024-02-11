@@ -167,77 +167,73 @@
                     </div>
                 </div>
             </div> <!-- /.inner-wrapper -->
-            <!-- /.fancy-feature-sixteen 
-        <div class="team-section-one relative mt-[150px] pb-[200px] lg:mt-[100px] md:mt-[100px] sm:mt-[100px] xsm:mt-[100px] lg:pb-[100px] md:pb-[100px] sm:pb-[100px] xsm:pb-[100px] z-[1]">
-            <img src="assets/images/shape/shape_81.svg" alt="" class="lazy-img shapes shape-one absolute z-[-1] top-[-5%] left-0">
-            <img src="assets/images/shape/shape_82.svg" alt="" class="lazy-img shapes shape-two absolute z-[-1] right-0 bottom-[5%]">
-            <div class="container">
-                <div class="flex flex-wrap mx-[-12px] items-center">
-                    <div class="xl:w-5/12 lg:w-5/12 md:w-6/12 w-full flex-[0_0_auto] px-[12px] max-w-full wow fadeInLeft">
-                        <div class="title-style-six text-center xl:text-left lg:text-left md:text-left ">
-                            <h2 class="main-title font-medium text-black text-[62px] leading-[1.32em] 2xl:text-[55px] lg:text-[48px] md:text-[32px] sm:text-[32px] xsm:text-[32px]">Our Dedicated volunteer.</h2>
-                    </div>
-                    <div class="xl:w-7/12 lg:w-7/12 md:w-6/12 w-full flex-[0_0_auto] px-[12px] max-w-full sm:text-center xsm:text-center text-right wow fadeInRight">
-                        <a href="#" class="btn-nine border3 font-medium sm:mt-[10px] xsm:mt-[10px] text-black leading-[55px] text-[16px] relative transition-all duration-[0.3s] ease-[ease-in-out] p-[0_36px] rounded-[3px] hover:text-white bg-[var(--prime-four)] hover:bg-black md:text-[15px] md:leading-[50px] md:p-[0_30px] sm:text-[15px] sm:leading-[50px] sm:p-[0_30px] xsm:text-[15px] xsm:leading-[50px] xsm:p-[0_30px]">More about team</a>
-                    </div>
-                </div> 
-                <div class="flex flex-wrap mx-[-12px] xxl:mx-[-24px] pt-10 lg:pt-[10px] md:pt-[10px] sm:pt-[10px] xsm:pt-[10px] ">
-                    <div class="xl:w-4/12 lg:w-4/12 sm:w-6/12 w-full flex-[0_0_auto] px-[12px] max-w-full">
-                        <div class="team-block-one mt-10 wow fadeInUp">
-                            <div class="img-meta relative before:content-[''] before:absolute before:h-[34%] before:bottom-0 before:inset-x-0 before:bg-[linear-gradient(180deg,rgba(0,0,0,0)0%,rgba(0,0,0,0.65)100%)]">
-                                <img src="assets/images/team/img_01.jpg" alt="" class="lazy-img w-full">
-                                <div class="info absolute text-center z-[1] bottom-[30px] inset-x-0">
-                                    <h4 class="text-white mb-[5px] lg:text-[20px] md:text-[20px] sm:text-[20px] xsm:text-[20px] ">Rashe ka</h4>
-                                    <div class="text-white text-[18px] lg:text-[16px] md:text-[16px] sm:text-[16px] xsm:text-[16px] leading-[1.67em] ">Marketing Head</div>
-                                </div> 
-                            </div> 
-                        </div>
-                    </div>
-                    <div class="xl:w-4/12 lg:w-4/12 sm:w-6/12 w-full flex-[0_0_auto] px-[12px] max-w-full">
-                        <div class="team-block-one mt-10 wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="img-meta relative before:content-[''] before:absolute before:h-[34%] before:bottom-0 before:inset-x-0 before:bg-[linear-gradient(180deg,rgba(0,0,0,0)0%,rgba(0,0,0,0.65)100%)]">
-                                <img src="assets/images/team/img_02.jpg" alt="" class="lazy-img w-full">
-                                <div class="info absolute text-center z-[1] bottom-[30px] inset-x-0">
-                                    <h4 class="text-white mb-[5px] lg:text-[20px] md:text-[20px] sm:text-[20px] xsm:text-[20px] ">James Arthur</h4>
-                                    <div class="text-white text-[18px] lg:text-[16px] md:text-[16px] sm:text-[16px] xsm:text-[16px] leading-[1.67em] ">Volunteer</div>
-                                </div> 
-                            </div> 
-                        </div>
-                    </div>
-                    <div class="xl:w-4/12 lg:w-4/12 sm:w-6/12 w-full flex-[0_0_auto] px-[12px] max-w-full">
-                        <div class="team-block-one mt-10 wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="img-meta relative before:content-[''] before:absolute before:h-[34%] before:bottom-0 before:inset-x-0 before:bg-[linear-gradient(180deg,rgba(0,0,0,0)0%,rgba(0,0,0,0.65)100%)]">
-                                <img src="assets/images/team/img_03.jpg" alt="" class="lazy-img w-full">
-                                <div class="info absolute text-center z-[1] bottom-[30px] inset-x-0">
-                                    <h4 class="text-white mb-[5px] lg:text-[20px] md:text-[20px] sm:text-[20px] xsm:text-[20px] ">Jannat Kabir</h4>
-                                    <div class="text-white text-[18px] lg:text-[16px] md:text-[16px] sm:text-[16px] xsm:text-[16px] leading-[1.67em] ">Volunteer Head</div>
-                                </div> 
-                            </div> 
-                        </div>
-                    </div>
-                </div> 
-            </div>
-        </div>  /.team-section-one -->
+        
     </div>
         <!-- 
 			=============================================
 				Partner Section Three 
 			============================================== 
 			-->
-        <div class="partner-section-three relative pt-[170px] lg:pt-[100px] md:pt-[100px] sm:pt-[100px] xsm:pt-[100px] ">
-            <div class="container">
-                <div class="title text-black uppercase text-center mb-[55px] lg:mb-[30px] md:mb-[30px] sm:mb-[30px] xsm:mb-[30px] text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xsm:text-[16px] tracking-[2px]">We currently have Over <span class=" text-[32px] lg:text-[26px] md:text-[26px] sm:text-[26px] xsm:text-[26px] tracking-[3.2px] text-[#FF3636] underline decoration-1 font-Noteworthy ">20+</span> partners</div>
-                <div class="partner_slider_one flex flex-wrap mx-[-12px]">
-                    <div class="item m-[0_12px]"><img src="assets/images/logo/Plogo-18.png" alt="" class="m-auto"></div>
-                    <div class="item m-[0_12px]"><img src="assets/images/logo/Plogo-19.png" alt="" class="m-auto"></div>
-                    <div class="item m-[0_12px]"><img src="assets/images/logo/Plogo-20.png" alt="" class="m-auto"></div>
-                    <div class="item m-[0_12px]"><img src="assets/images/logo/Plogo-21.png" alt="" class="m-auto"></div>
-                    <div class="item m-[0_12px]"><img src="assets/images/logo/Plogo-20.png" alt="" class="m-auto"></div>
-                    <div class="item m-[0_12px]"><img src="assets/images/logo/Plogo-20.png" alt="" class="m-auto"></div>
-                    <div class="item m-[0_12px]"><img src="assets/images/logo/Plogo-21.png" alt="" class="m-auto"></div>
+        <div class="container">
+            <div class="wrapper relative">
+                <div class="title-style-one mb-[30px]">
+                    <h2 class="main-title font-medium text-black !m-0">Photo News</h2>
                 </div>
-            </div> <!-- /.container -->
-        </div> <!-- /.partner-section-three -->
+            </div>
+        </div>
+        <div class="mx-[-12px] xxl:mx-[-24px]">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV864s-BBDePD_elG0lCx7VSeGfhxIEppbiK9dXwBTHt9nNdZ4kwV35xgWTbXBlID0fDg_PtkQtpjx_FBEsvTSICL94qNPja-Iw8IfuOTEkEQEYDDPQ" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV867Am1UAvZssOUXW0FKr8sbcBweuhnmesFL7OJw8_o2xjb4CHPx-kh4CtgdeJC4CefPOdYRpJfgxHs9DTMRvv2XgElXwm7yHP7jK2xD8oy910yXAw" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV84AygH-4vB1ZNesSP9HiE8pijq1jWaRoPe_qEjjW5vLKwVRQYYrd9NbK66cvJF99idysWCB3fJ_HqtkmB_1vvdy5kvn-mqoHvhAIicQYD9YrF4y2g" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV87eBZTBiK93iTbDrh595v-Idf9TA4aM2_NFT1uB1ScQnj_uLFkGomqaIkdW_nxVH2bgkcAjDuJzjyaexca1--PSmUtuazpFOWMgaIBJyowwGjj3lQ" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV84ml9uEzJFZkVxS9Zzyy4-xZG1_kDvZCPtHJw340XiMELld3I1LVoq7YYyDIBnPFm9d6hTduTQmePp_Wzzyr17VBrHh3-y1UoDaxBlIyue6UPEggg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV87p1wPHVQtdksmIL5pcjnHkRQJXcKHPOxA6QN-cL1ncx1uuQafI8uIZ1pJIzBKj0jhTwHq34Es4SeH5IcK0AUAerLeN2Vg1NTfenw-ar4WqMfNmNw" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV84pIISYCWiI8StdqpzzRc9vKs9Poz_oDlt2EPy5WHuzJZ5D4zctimRQHRWbRYQDytkM3zv_KLy3Xxv47QmAkLy9mDebclSBN1xUWVQSmxt4c1PtQw" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV84qSIHB1xgdgi-eerbe0vzM6i4v0dpdqP8elUMfKebXm3VAaQ81n-GJ5VsK3xA-NZj7mW9bKUYlkVtCbweSTpGIxFPE_3URYTfc9cLGRBXXShbhJQ" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV85SR0bw0WcJalXwJH5o8MGDVBXIFxYKRLLUKfIdtSgaDt1UM8TNdk3kKBRX-P0bzWHerIL9y6Gv8k27UaUpbDFrBvX9qJ1ZGNnzf16_VYJ-SJsA-A" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV84zFQBfam0hn63LP0TkHMePmwlgPFvErtMiiSpcQpSRpB0_PpIc52EwSRqGQILA10hLrT8EcLddoMtAwBY97WjUIy9jO1mdd16Oomsagp9V8tWeuQ" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV86Lqn4mlkYLTdmr5VWBNH8f_tkl3xjGusUORYlvyh15bL7gBw7Yb8ITv-Ji6mZL0pRsnSvx7YJSPPBLSGnnMIsvI57zUqxbM2JnDCTRqrShmTwAfQ" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="https://lh3.googleusercontent.com/pw/ABLVV84NkqaRDzcMEERMi4CT-AWlURlhyPKjms4gW6TYUNh1Kko_Gf8dTEbGbd1fIP9XsilRPIinw_k6CmcETYwLbi3PeLXpmT819fOr1UgGgK6aFv3W2A" class="d-block w-100" alt="...">
+                </div>
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <i class="bi bi-arrow-left"></i>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <i class="bi bi-arrow-right"></i>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
+        </div>
+
         <!--
 			=====================================================
 				Fancy Short Banner Seven 
