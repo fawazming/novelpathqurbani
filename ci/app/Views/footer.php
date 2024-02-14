@@ -75,6 +75,7 @@
               </div>
               <div class="modal-body ratio ratio-4x3" style="min-height: 80vh ;">
                 <iframe src="https://forms.gle/hUJmGVXfzjNtPjFKA" frameborder="0"></iframe>
+                <p>Can't find any form on this page, visit <a href="https://forms.gle/hUJmGVXfzjNtPjFKA">https://forms.gle/hUJmGVXfzjNtPjFKA</a> to complete the form</p>
               </div>
             </div>
           </div>
