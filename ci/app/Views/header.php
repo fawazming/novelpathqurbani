@@ -21,7 +21,7 @@
     <meta name="msapplication-navbutton-color" content="#1d2b40">
     <!-- iOS Safari -->
     <meta name="apple-mobile-web-app-status-bar-style" content="#1d2b40">
-    <title>N.P. Charity || Jano - Creative Multipurpose Tailwind CSS Template</title>
+    <title>Novel Path Qurbani</title>
     <!-- Favicon -->
     <link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
     <!-- Main style sheet -->
@@ -29,6 +29,7 @@
     <link rel="stylesheet" type="text/css" href="assets/fonts/gordita/stylesheet.css" media="all">
     <link rel="stylesheet" type="text/css" href="assets/fonts/eustache/stylesheet.css" media="all">
     <link rel="stylesheet" type="text/css" href="assets/fonts/noteworthy/style.css" media="all">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/fonts/bootstrap-icons/font-css.css" media="all">
     <link rel="stylesheet" type="text/css" href="assets/fonts/font-awesome/css/all.min.css" media="all">
     <link rel="stylesheet" type="text/css" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css" media="all">
@@ -79,10 +80,10 @@
                             <img src="assets/images/icon/icon_43.svg" alt="" class="mr-[.5rem]">
                             <span>(+60)102486014</span>
                         </a>
-                        <a href="contact-us.html" class="donate-btn font-medium tran3s relative hidden  xl:block lg:block text-[17px] leading-[55px] text-black px-10 py-0 rounded-[5px] bg-[var(--prime-four)] hover:bg-white lg:text-[15px] lg:leading-[50px] lg:p-[0_30px] md:text-[15px] md:leading-[50px] md:p-[0_30px] sm:text-[15px] sm:leading-[50px] sm:p-[0_30px] xsm:text-[15px] xsm:leading-[50px] xsm:p-[0_30px]">Donate Now</a>
+                        <button  data-bs-toggle="modal" data-bs-target="#eoi" class="donate-btn font-medium tran3s relative hidden  xl:block lg:block text-[17px] leading-[55px] text-black px-10 py-0 rounded-[5px] bg-[var(--prime-four)] hover:bg-white lg:text-[15px] lg:leading-[50px] lg:p-[0_30px] md:text-[15px] md:leading-[50px] md:p-[0_30px] sm:text-[15px] sm:leading-[50px] sm:p-[0_30px] xsm:text-[15px] xsm:leading-[50px] xsm:p-[0_30px]">Donate</button>
                     </div> <!-- /.right-widget -->
                     <nav class="navbar navbar-expand-lg xl:ml-[3rem] lg:ml-[3rem] md:p-0 sm:p-0 xsm:p-0 flex items-center py-2 xl:flex-nowrap xl:justify-start lg:flex-nowrap lg:justify-start xl:order-2 lg:order-2 static flex-wrap justify-between">
-                        <button class="navbar-toggler text-[1.25rem] leading-none transition-shadow duration-[0.15s] ease-[ease-in-out] w-11 h-[38px] relative z-[99] block xl:hidden lg:hidden shadow-[0_15px_20px_0px_rgba(0,0,0,0.05)] p-0 border-0 rounded-[.25rem] focus:shadow-none bg-[var(--prime-one)] before:content-[''] before:absolute before:w-[26px] before:h-0.5 before:pointer-events-none before:transition-transform before:duration-[0.25s] before:origin-[50%_50%] before:left-[9px] before:top-2/4 before:bg-white after:content-[''] after:absolute after:w-[26px] after:h-0.5 after:pointer-events-none after:transition-transform after:duration-[0.25s] after:origin-[50%_50%] after:left-[9px] after:top-2/4 after:bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <button  class="navbar-toggler text-[1.25rem] leading-none transition-shadow duration-[0.15s] ease-[ease-in-out] w-11 h-[38px] relative z-[99] block xl:hidden lg:hidden shadow-[0_15px_20px_0px_rgba(0,0,0,0.05)] p-0 border-0 rounded-[.25rem] focus:shadow-none bg-[var(--prime-one)] before:content-[''] before:absolute before:w-[26px] before:h-0.5 before:pointer-events-none before:transition-transform before:duration-[0.25s] before:origin-[50%_50%] before:left-[9px] before:top-2/4 before:bg-white after:content-[''] after:absolute after:w-[26px] after:h-0.5 after:pointer-events-none after:transition-transform after:duration-[0.25s] after:origin-[50%_50%] after:left-[9px] after:top-2/4 after:bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <span class=" absolute overflow-hidden w-[26px] h-0.5 indent-[200%] transition-opacity duration-[0.25s] -mt-px left-[9px] bg-white"></span>
                         </button>
                         <div class="collapse navbar-collapse  
@@ -107,7 +108,7 @@
                             <!-- Mobile Content -->
                             <div class="mobile-content block xl:hidden lg:hidden">
                                 <div class="flex flex-col items-center justify-center mt-[70px]">
-                                    <a href="contact-us.html" class="donate-btn font-medium tran3s relative text-[17px] leading-[55px] text-black px-10 py-0 rounded-[5px] bg-[var(--prime-four)] hover:bg-white lg:text-[15px] lg:leading-[50px] lg:p-[0_30px] md:text-[15px] md:leading-[50px] md:p-[0_30px] sm:text-[15px] sm:leading-[50px] sm:p-[0_30px] xsm:text-[15px] xsm:leading-[50px] xsm:p-[0_30px]">Donate Now</a>
+                                    <button  data-bs-toggle="modal" data-bs-target="#eoi" class="donate-btn font-medium tran3s relative text-[17px] leading-[55px] text-black px-10 py-0 rounded-[5px] bg-[var(--prime-four)] hover:bg-white lg:text-[15px] lg:leading-[50px] lg:p-[0_30px] md:text-[15px] md:leading-[50px] md:p-[0_30px] sm:text-[15px] sm:leading-[50px] sm:p-[0_30px] xsm:text-[15px] xsm:leading-[50px] xsm:p-[0_30px]">Donate</button>
                                 </div>
                             </div> <!-- /.mobile-content -->
                         </div>
